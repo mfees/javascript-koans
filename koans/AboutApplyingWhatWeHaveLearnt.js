@@ -1,4 +1,4 @@
-var _; //globals
+var _; //globals test
 
 describe("About Applying What We Have Learnt", function() {
 
